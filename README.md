@@ -40,20 +40,6 @@ A simple and responsive Todo List application built using HTML, CSS, and JavaScr
 
 ---
 
-## 📸 Project Demo
-
-(Add your project screenshot here)
-
----
-
-## 📂 How to Run
-
-1. Clone the repository
-2. Open the project folder
-3. Run `index.html` in your browser
-
----
-
 ## 💡 Future Improvements
 
 * ✏️ Edit task feature
