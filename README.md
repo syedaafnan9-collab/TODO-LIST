@@ -7,7 +7,7 @@ A simple and responsive Todo List application built using HTML, CSS, and JavaScr
 ## 🚀 Live Demo
 
 🔗 **Live Website:** https://todo-list-afn.netlify.app/
-📂 **GitHub Repository:** 
+📂 **GitHub Repository:** https://github.com/syedaafnan9-collab/TODO-LIST.git
 
 ---
 
